@@ -1,0 +1,8 @@
+.container {
+display: flex;
+flex-direction: row;
+width: 400px;
+}
+.title-trending-section {
+width: 400px;
+}
